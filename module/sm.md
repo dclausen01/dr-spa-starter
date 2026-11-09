@@ -1,7 +1,7 @@
 ---
 titel: "Meilenstein: Die Generalprobe"
 minuten: 90
-review: geprueft
+review: freigegeben
 quellen: [q-dr-konzept]
 meilenstein: true
 lernziele:
@@ -22,7 +22,7 @@ raster:
   - {kriterium: Check-in, erreicht: "pünktlich mit richtigem Namen in der Videokonferenz", besonders_gut: "hilft anderen beim Beitreten oder übernimmt eine Rolle (z. B. Zeit)"}
   - {kriterium: Auftrag, erreicht: "Ergebnis vollständig und bis zur Frist abgegeben", besonders_gut: "Ergebnis ist sorgfältig und für Eltern bzw. Team direkt nutzbar"}
   - {kriterium: Gemeinsame Datei, erreicht: "eigener Beitrag in der Datei, mindestens ein Kommentar", besonders_gut: "Kommentare der anderen beantwortet, Datei sinnvoll benannt"}
-  - {kriterium: Hilfeweg, erreicht: "bei Fragen über den Klassenchannel nachgefragt (oder begründet: keine Frage nötig)", besonders_gut: "Nachricht klar und höflich, Lehrkraft konnte ohne Rückfrage antworten"}
+  - {kriterium: Hilfeweg, erreicht: "bei Fragen über den Channel des Fachs nachgefragt (oder begründet: keine Frage nötig)", besonders_gut: "Nachricht klar und höflich, Lehrkraft konnte ohne Rückfrage antworten"}
   - {kriterium: Datenschutz, erreicht: "keine echten Namen oder Fotos aus der Praxis", besonders_gut: "auf Datenschutz in der Gruppe aufmerksam gemacht"}
   - {kriterium: Exit-Ticket, erreicht: "alle drei Fragen beantwortet", besonders_gut: "mit Übertrag auf den Beruf (z. B. Teamarbeit in der Kita)"}
 ---
@@ -35,9 +35,9 @@ Lesen Sie zuerst das **Bewertungsraster** unten. Dann wissen Sie, worauf es anko
 ## Ablauf
 
 :::schritte
-1. **Check-in** per Videokonferenz: Den Link finden Sie im Klassenchannel. Die Lehrkraft erklärt den Auftrag und teilt die Gruppen ein.
+1. **Check-in** per Videokonferenz: Den Link finden Sie im Channel des Fachs. Die Lehrkraft erklärt den Auftrag und teilt die Gruppen ein.
 2. **Arbeitsphase** (ca. 45 Minuten): Bearbeiten Sie den Auftrag in der Gruppe in einer gemeinsamen Datei.
-3. **Coaching-Fenster:** Die Lehrkraft ist zu einer festen Zeit in der Videokonferenz. Dort oder im Klassenchannel können Sie Fragen stellen.
+3. **Coaching-Fenster:** Die Lehrkraft ist zu einer festen Zeit in der Videokonferenz. Dort oder im Channel des Fachs können Sie Fragen stellen.
 4. **Abgabe** in Moodle bis zur genannten Uhrzeit.
 5. **Exit-Ticket** ausfüllen.
 :::
@@ -58,7 +58,7 @@ Arbeiten Sie in der **gemeinsamen Datei**, die Ihre Lehrkraft im Channel teilt. 
 **KI-Ampel:** 🟡 gelb – KI nur zum Ideensammeln. Beschreibung und Begründung schreiben Sie selbst. Kennzeichnen Sie die KI-Nutzung.
 
 :::checkliste Vor der Abgabe
-- Die Datei hat einen sinnvollen Namen (Datum_Gruppe_Thema).
+- Die Datei hat einen sinnvollen Namen (Datum, Titel, ggf. Gruppe – wie in Modul G4).
 - Jedes Gruppenmitglied hat mindestens ein Spiel mitgeschrieben.
 - Jede:r hat mindestens einen Kommentar gesetzt.
 - Keine echten Namen von Kindern oder Fotos aus der Praxis.

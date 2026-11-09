@@ -13,7 +13,7 @@ Der Lernpfad gehört zum **DR-Starterpaket** der SPA (Materialpool, Priorität 1
 | Modul | DR-Pass | Woche (Richtwert) | Vorschlag wer | Bereiche | Zeit |
 | --- | --- | --- | --- | --- | --- |
 | G1 Meine Zugänge | Station 1 | 1 | Klassenleitung | K1, K6 | 45 min (+ Onboarding-Zeit) |
-| G2 Klassenchannel | Station 2 | 1–2 | Deutsch oder LF4 | K2 | 30 min |
+| G2 Channels | Station 2 | 1–2 | Deutsch oder LF4 | K2 | 30 min |
 | G3 Videokonferenz | Station 3 | 2–3 | Klassenleitung / beliebig | K2 | 45 min |
 | G4 Gemeinsame Datei | Station 4 | 3–4 | LF1 | K3 | 45 min |
 | S1 Datenschutz | Station 5 | 4–5 | LF1 oder LF3 Theorie | K6 | 45 min |
@@ -24,11 +24,11 @@ Der Lernpfad gehört zum **DR-Starterpaket** der SPA (Materialpool, Priorität 1
 ## Vorbereitung durch die Lehrkraft
 
 - **G1:** Zugangsdaten bereithalten; das Onboarding im BBZ-Wiki dauert mit WLAN und Apps oft länger als 45 Minuten (Ablaufplan: 90 Minuten).
-- **G2:** Channel-Regeln der Klasse festlegen und im Channel anpinnen.
+- **G2:** Channel-Regeln festlegen und im Channel des eigenen Fachs anpinnen.
 - **G3:** Probe-Videokonferenz mit Gruppenräumen anlegen; Check-in-Folie aus den Videokonferenz-Vorlagen.
 - **G4:** Klassen-Steckbrief als gemeinsame Datei anlegen und teilen; für die Plus-Aufgabe eine Zeile „aus Versehen“ löschen.
 - **S2:** ggf. eigene Beispielaufträge für die Zuordnung.
-- **S3:** DR-Terminplan im Klassenchannel teilen; Vereinbarung für Krankmeldung am DR-Tag nennen.
+- **S3:** DR-Terminplan in schul.cloud teilen; Vereinbarung für Krankmeldung am DR-Tag nennen.
 - **Generalprobe:** Gruppen und gemeinsame Dateien vorbereiten, Coaching-Fenster festlegen, Lehrkraft im Nebenraum.
 
 ## Abgaben und Bewertung
@@ -40,6 +40,6 @@ Der Lernpfad gehört zum **DR-Starterpaket** der SPA (Materialpool, Priorität 1
 ## Offene Punkte (vor dem Einsatz klären)
 
 - Welches Videokonferenz-Werkzeug ist Standard (BigBlueButton über Moodle bzw. BBZ-Cloud-App)? Danach Screenshots/Knopfnamen in G3 ergänzen.
-- In welchem Programm entsteht die gemeinsame Datei (Office online oder Schul-Cloud/OnlyOffice)? Danach Menüpfade für Kommentar und Versionsverlauf in G4 ergänzen.
+- Gemeinsame Dateien laufen ab dem Schuljahr 2027/28 über **Nextcloud mit Euro-Office** (Microsoft Office entfällt). Menüpfade für Kommentar und Versionsverlauf in G4 nach Einführung ergänzen; ebenso die Nextcloud-Adresse in G1.
 - Die einheitliche Formulierung der KI-Ampel im Team (Konzept, Abschnitt 7) – S2 nutzt die Formulierung aus dem Lernpfad DR-Starter.
 - Moodle-Klassenkurs ja/nein – davon hängt ab, wo Aufträge und Abgaben liegen.

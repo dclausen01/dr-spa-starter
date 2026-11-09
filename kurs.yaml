@@ -4,13 +4,13 @@
 titel: Startklar für den Digitalen Raum
 kurzname: dr-spa-starter
 ueberschrift: Startklar für den Digitalen Raum
-untertitel: Sie lernen Schritt für Schritt alles, was Sie für Ihre DR-Tage brauchen – Zugänge, Klassenchannel, Videokonferenz, gemeinsame Dateien, Datenschutz und KI-Regeln.
+untertitel: Sie lernen Schritt für Schritt alles, was Sie für Ihre DR-Tage brauchen – Zugänge, Channels in schul.cloud, Videokonferenz, gemeinsame Dateien, Datenschutz und KI-Regeln.
 badges: [SPA Unterstufe, DR-Starterphase, 2 Stufen · ca. 6 Std.]
 fusszeile: BBZ Rendsburg-Eckernförde · Abteilung SPA · Materialpool Digitaler Raum · Stand 11/2026
 logo_zeichen: "DR"
 sprache: de
 anrede: sie
-notizfrage: "Was nehmen Sie mit – für Ihre DR-Tage und für Ihre Arbeit in Kita, OGS oder Jugendhilfe?"
+notizfrage: "Was nehmen Sie mit – für Ihre DR-Tage und für Ihre Arbeit in Kita, OGS oder Grundschule?"
 
 einleitung: |
   :::notiz 👉 Worum geht es?
@@ -23,14 +23,14 @@ einleitung: |
   1. Machen Sie zuerst den **Selbstcheck** unten.
   2. Ihre Lehrkraft sagt Ihnen, welche Station heute dran ist.
   3. Haken Sie Checklisten ab und markieren Sie ein Modul am Ende als erledigt.
-  4. Jedes Modul endet mit **„Im Beruf“**: Was Sie hier üben, brauchen Sie später auch in Kita, OGS und Jugendhilfe.
+  4. Jedes Modul endet mit **„Im Beruf“**: Was Sie hier üben, brauchen Sie später auch in Kita, OGS und Grundschule.
   :::
 
 stufen:
   - id: grundlagen
     name: Grundlagen
     icon: "🌱"
-    text: Zugänge einrichten, im Klassenchannel schreiben, an Videokonferenzen teilnehmen, gemeinsam an einer Datei arbeiten.
+    text: Zugänge einrichten, in den Channels schreiben, an Videokonferenzen teilnehmen, gemeinsam an einer Datei arbeiten.
     module: [g1, g2, g3, g4]
   - id: sicher-arbeiten
     name: Sicher arbeiten
@@ -40,11 +40,11 @@ stufen:
 
 selbstcheck:
   fragen:
-    - frage: Ich kann meinen DR-Tag planen und Abgaben pünktlich erledigen.
+    - frage: Ich kann mich gut selbst organisieren (Zeit einteilen, Aufgaben pünktlich erledigen).
       antworten: [Brauche noch viel Hilfe, Mit Anleitung, Weitgehend allein, Sicher allein]
     - frage: Ich kann online höflich und klar kommunizieren (Nachricht, Videokonferenz).
       antworten: [Brauche noch viel Hilfe, Mit Anleitung, Weitgehend allein, Sicher allein]
-    - frage: Ich kann mit anderen an einer gemeinsamen Datei arbeiten.
+    - frage: Ich kann mit anderen an einer gemeinsamen Datei online arbeiten.
       antworten: [Brauche noch viel Hilfe, Mit Anleitung, Weitgehend allein, Sicher allein]
   empfehlung:
     - {bis: 5, stufe: grundlagen, hinweis: "Starten Sie mit G1 „Meine Zugänge“ und gehen Sie die Grundlagen Schritt für Schritt durch."}

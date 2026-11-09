@@ -4,7 +4,7 @@ window.LP_KURS = {
  "kurzname": "dr-spa-starter",
  "logoZeichen": "DR",
  "anrede": "sie",
- "notizfrage": "Was nehmen Sie mit – für Ihre DR-Tage und für Ihre Arbeit in Kita, OGS oder Jugendhilfe?",
+ "notizfrage": "Was nehmen Sie mit – für Ihre DR-Tage und für Ihre Arbeit in Kita, OGS oder Grundschule?",
  "stufen": [
   {
    "id": "grundlagen",
@@ -31,8 +31,8 @@ window.LP_KURS = {
   {
    "id": "g2",
    "level": "grundlagen",
-   "file": "g2-kommunizieren-im-klassenchannel.html",
-   "title": "Kommunizieren im Klassenchannel",
+   "file": "g2-kommunizieren-in-den-channels.html",
+   "title": "Kommunizieren in den Channels",
    "min": 30,
    "milestone": false
   },
