@@ -1,2 +1,29 @@
 # Quellen mit Prüfstatus – siehe referenzen/qualitaet.md
-# - {id: q1, titel: …, url: …, status: zu_pruefen}
+- id: q-wiki-onboarding
+  titel: Onboarding für Schüler:innen am BBZ RD-ECK (BBZ-Wiki, Version 2.0 vom 29.08.2024)
+  url: https://wiki.bbz-rd-eck.com/doku.php?id=anleitungen_lul:onboarding:onboarding_sus
+  art: eigene
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Benutzername vorname.nachname@sus.bbz-rd-eck.de; Passwortregeln (8 Zeichen, Groß/Klein, Zahl, Sonderzeichen, kein Name); WLAN BBZ-Clients; Untis Mobile; schul.cloud-Verschlüsselungskennwort; moodle.bbz-rd-eck.de; office.com; BBZ-Cloud-App; Mails aus Schüler-Account erreichen Lehrkräfte nicht"
+- id: q-dsgvo-art4
+  titel: Art. 4 Nr. 1 DSGVO – Begriffsbestimmung personenbezogene Daten
+  url: https://dsgvo-gesetz.de/art-4-dsgvo/
+  art: gesetz
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "personenbezogene Daten = alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen"
+- id: q-kug-22
+  titel: § 22 Kunsturhebergesetz (KunstUrhG) – Recht am eigenen Bild
+  url: https://dejure.org/gesetze/KunstUrhG/22.html
+  art: gesetz
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Bildnisse dürfen nur mit Einwilligung des Abgebildeten verbreitet oder öffentlich zur Schau gestellt werden"
+- id: q-dr-konzept
+  titel: DR-Konzept SPA – Kompetenzorientierter Unterricht im Digitalen Raum (Entwurf v0.5, 2026-11-09) mit Ablaufplan Starterphase, DR-Pass und Lernpfad DR-Starter (Stationen)
+  url: ""
+  art: eigene
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Stationen, KI-Ampel, Hilfeweg, Bereitstellung bis Vortag 16 Uhr, Anwesenheit = Check-in + Ergebnis, keine Kamerapflicht, PiA-Regel Mo/Di, Datenschutz-Merksatz"

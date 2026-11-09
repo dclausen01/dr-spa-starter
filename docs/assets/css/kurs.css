@@ -1,0 +1,9 @@
+/* Erzeugt von bauen.py: Farben der Stufen und Varianten dieses Kurses. */
+:root {
+  --lv-grundlagen: var(--lv-1); --lv-grundlagen-soft: var(--lv-1-soft);
+  --lv-sicher-arbeiten: var(--lv-2); --lv-sicher-arbeiten-soft: var(--lv-2-soft);
+}
+.badge.lv-grundlagen { background: var(--lv-grundlagen-soft); color: var(--deep); box-shadow: inset 3px 0 0 var(--lv-grundlagen); }
+.level-card.grundlagen { border-top-color: var(--lv-grundlagen); }
+.badge.lv-sicher-arbeiten { background: var(--lv-sicher-arbeiten-soft); color: var(--deep); box-shadow: inset 3px 0 0 var(--lv-sicher-arbeiten); }
+.level-card.sicher-arbeiten { border-top-color: var(--lv-sicher-arbeiten); }

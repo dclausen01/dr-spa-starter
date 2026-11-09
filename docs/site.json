@@ -1,0 +1,82 @@
+{
+ "titel": "Startklar für den Digitalen Raum",
+ "kurzname": "dr-spa-starter",
+ "seiten": [
+  {
+   "datei": "g1-meine-zugange.html",
+   "art": "modul",
+   "id": "g1",
+   "titel": "Meine Zugänge",
+   "review": "geprueft"
+  },
+  {
+   "datei": "g2-kommunizieren-im-klassenchannel.html",
+   "art": "modul",
+   "id": "g2",
+   "titel": "Kommunizieren im Klassenchannel",
+   "review": "geprueft"
+  },
+  {
+   "datei": "g3-an-einer-videokonferenz-teilnehmen.html",
+   "art": "modul",
+   "id": "g3",
+   "titel": "An einer Videokonferenz teilnehmen",
+   "review": "geprueft"
+  },
+  {
+   "datei": "g4-gemeinsam-an-einer-datei-arbeiten.html",
+   "art": "modul",
+   "id": "g4",
+   "titel": "Gemeinsam an einer Datei arbeiten",
+   "review": "geprueft"
+  },
+  {
+   "datei": "s1-was-teile-ich-wo-datenschutz.html",
+   "art": "modul",
+   "id": "s1",
+   "titel": "Was teile ich wo? (Datenschutz)",
+   "review": "geprueft"
+  },
+  {
+   "datei": "s2-die-ki-ampel.html",
+   "art": "modul",
+   "id": "s2",
+   "titel": "Die KI-Ampel",
+   "review": "geprueft"
+  },
+  {
+   "datei": "s3-mein-dr-arbeitsplatz-und-mein-hilfeweg.html",
+   "art": "modul",
+   "id": "s3",
+   "titel": "Mein DR-Arbeitsplatz und mein Hilfeweg",
+   "review": "geprueft"
+  },
+  {
+   "datei": "sm-meilenstein-die-generalprobe.html",
+   "art": "modul",
+   "id": "sm",
+   "titel": "Meilenstein: Die Generalprobe",
+   "review": "geprueft"
+  },
+  {
+   "datei": "hilfeweg.html",
+   "art": "seite",
+   "titel": "Spickzettel: DR-Tag und Hilfeweg"
+  },
+  {
+   "datei": "lehrkraefte.html",
+   "art": "lehrkraft",
+   "titel": "Für Lehrkräfte"
+  },
+  {
+   "datei": "index.html",
+   "art": "index",
+   "titel": "Übersicht"
+  },
+  {
+   "datei": "start.html",
+   "art": "start",
+   "titel": "🧭 Mein Lernpfad – hier geht's los"
+  }
+ ]
+}

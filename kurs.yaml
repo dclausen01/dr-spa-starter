@@ -1,35 +1,57 @@
-# Kursbeschreibung – Startklar für den Digitalen Raum
+# Kursbeschreibung – Startklar für den Digitalen Raum (DR-Starter SPA)
 # Aufbau und alle Felder: referenzen/schema.md im Lernpfad-Baukasten
 
 titel: Startklar für den Digitalen Raum
-kurzname: startklar-fur-den-digitalen-raum
-ueberschrift: Startklar für den Digitalen Raum – Schritt für Schritt
-untertitel: Worum geht es? Ein Satz für die Schüler:innen.
-badges: [2 Stufen]
-fusszeile: BBZ Rendsburg-Eckernförde
+kurzname: dr-spa-starter
+ueberschrift: Startklar für den Digitalen Raum
+untertitel: Sie lernen Schritt für Schritt alles, was Sie für Ihre DR-Tage brauchen – Zugänge, Klassenchannel, Videokonferenz, gemeinsame Dateien, Datenschutz und KI-Regeln.
+badges: [SPA Unterstufe, DR-Starterphase, 2 Stufen · ca. 6 Std.]
+fusszeile: BBZ Rendsburg-Eckernförde · Abteilung SPA · Materialpool Digitaler Raum · Stand 11/2026
+logo_zeichen: "DR"
+sprache: de
+anrede: sie
+notizfrage: "Was nehmen Sie mit – für Ihre DR-Tage und für Ihre Arbeit in Kita, OGS oder Jugendhilfe?"
 
 einleitung: |
-  :::notiz 👉 Bevor du startest
-  Arbeite die Module der Reihe nach durch.
+  :::notiz 👉 Worum geht es?
+  Nach den Herbstferien haben Sie regelmäßig **DR-Tage**. DR heißt **Digitaler Raum**: Sie lernen an diesen Tagen von zu Hause aus – mal gemeinsam in einer Videokonferenz, mal selbstständig an Aufträgen.
+
+  Damit das klappt, üben Sie vorher alles in der Schule. Jede Station dieses Lernpfads passt zu einer Zeile in Ihrem **DR-Pass** (Laufzettel). Haken Sie dort ab, was Sie geschafft haben.
+  :::
+
+  :::tipp So arbeiten Sie mit dem Lernpfad
+  1. Machen Sie zuerst den **Selbstcheck** unten.
+  2. Ihre Lehrkraft sagt Ihnen, welche Station heute dran ist.
+  3. Haken Sie Checklisten ab und markieren Sie ein Modul am Ende als erledigt.
+  4. Jedes Modul endet mit **„Im Beruf“**: Was Sie hier üben, brauchen Sie später auch in Kita, OGS und Jugendhilfe.
   :::
 
 stufen:
   - id: grundlagen
     name: Grundlagen
     icon: "🌱"
-    text: Was lernt man in dieser Stufe? (ein Satz)
-    module: [g1, gm]
+    text: Zugänge einrichten, im Klassenchannel schreiben, an Videokonferenzen teilnehmen, gemeinsam an einer Datei arbeiten.
+    module: [g1, g2, g3, g4]
   - id: sicher-arbeiten
     name: Sicher arbeiten
     icon: "🚀"
-    text: Was lernt man in dieser Stufe? (ein Satz)
-    module: [s1, sm]
+    text: Datenschutz, KI-Ampel, Ihr DR-Arbeitsplatz mit Hilfeweg – und zum Schluss die Generalprobe.
+    module: [s1, s2, s3, sm]
 
-# selbstcheck:            # optional: kurzer Selbsteinschätzungs-Check auf der Startseite
-
-einstufung: {bestehen: 80}   # Einstufungstests aus den Kurz-Checks der vorigen Stufe
+selbstcheck:
+  fragen:
+    - frage: Ich kann meinen DR-Tag planen und Abgaben pünktlich erledigen.
+      antworten: [Brauche noch viel Hilfe, Mit Anleitung, Weitgehend allein, Sicher allein]
+    - frage: Ich kann online höflich und klar kommunizieren (Nachricht, Videokonferenz).
+      antworten: [Brauche noch viel Hilfe, Mit Anleitung, Weitgehend allein, Sicher allein]
+    - frage: Ich kann mit anderen an einer gemeinsamen Datei arbeiten.
+      antworten: [Brauche noch viel Hilfe, Mit Anleitung, Weitgehend allein, Sicher allein]
+  empfehlung:
+    - {bis: 5, stufe: grundlagen, hinweis: "Starten Sie mit G1 „Meine Zugänge“ und gehen Sie die Grundlagen Schritt für Schritt durch."}
+    - {stufe: sicher-arbeiten, hinweis: "Die Grundlagen sitzen schon gut. Prüfen Sie sie trotzdem kurz mit den Kurz-Checks – dann weiter mit „Sicher arbeiten“."}
 
 moodle:
-  version: 5                 # 5 = mit Unterabschnitten und H5P (Standard), 4 = ohne Unterabschnitte
-  freischaltung: einstufung  # einstufung = Stufe frei nach Meilenstein ODER Einstufungstest; offen = alle Stufen sofort
-  reihenfolge: nacheinander  # nacheinander | frei
+  version: 5
+  freischaltung: offen       # Stationen werden von verschiedenen Lehrkräften in verschiedenen Wochen eingesetzt
+  reihenfolge: frei
+  raster_punkte: [0, 2, 3]
