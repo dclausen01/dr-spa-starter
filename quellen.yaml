@@ -27,3 +27,24 @@
   status: verifiziert
   geprueft_am: 2026-11-09
   belegt: "Stationen, KI-Ampel, Hilfeweg, Bereitstellung bis Vortag 16 Uhr, Anwesenheit = Check-in + Ergebnis, keine Kamerapflicht, PiA-Regel Mo/Di, Datenschutz-Merksatz"
+- id: q-oo-kommentare
+  titel: ONLYOFFICE Hilfecenter – Kommentieren von Dokumenten (deutsch)
+  url: https://helpcenter.onlyoffice.com/de/docs/userguides/document_editor/Commenting.aspx
+  art: hersteller
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Zusammenarbeit/Einfügen › Kommentar; Kontextmenü Kommentar hinzufügen; Antwort hinzufügen › Antworten; Euro-Office laut Lehrkraft derzeit identisch in der Bedienung"
+- id: q-oo-versionen
+  titel: ONLYOFFICE Hilfecenter – Version history (englisch) und ONLYOFFICE-Blog „Gelöschten Text wiederherstellen“ (deutsch, Version 8.2)
+  url: https://helpcenter.onlyoffice.com/ONLYOFFICE-Editors/ONLYOFFICE-Document-Editor/HelpfulHints/VersionHistory.aspx
+  art: hersteller
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Datei › Versionsverlauf oder Zusammenarbeit › Versionsverlauf; Fassung anklicken, Änderungen in Autorfarbe; Wiederherstellen unter der Fassung (deutsche Bezeichnungen laut Blog https://onlyoffice.com/blog/de/2024/11/geloeschten-text-in-word-wiederherstellen)"
+- id: q-bbz-cloud
+  titel: Nextcloud des BBZ (Angabe der Lehrkraft)
+  url: https://cloud.bbz-rd-eck.de
+  art: eigene
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Adresse der Nextcloud"

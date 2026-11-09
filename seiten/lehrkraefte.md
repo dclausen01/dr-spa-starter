@@ -40,6 +40,6 @@ Der Lernpfad gehört zum **DR-Starterpaket** der SPA (Materialpool, Priorität 1
 ## Offene Punkte (vor dem Einsatz klären)
 
 - Welches Videokonferenz-Werkzeug ist Standard (BigBlueButton über Moodle bzw. BBZ-Cloud-App)? Danach Screenshots/Knopfnamen in G3 ergänzen.
-- Gemeinsame Dateien laufen ab dem Schuljahr 2027/28 über **Nextcloud mit Euro-Office** (Microsoft Office entfällt). Menüpfade für Kommentar und Versionsverlauf in G4 nach Einführung ergänzen; ebenso die Nextcloud-Adresse in G1.
+- Gemeinsame Dateien laufen ab dem Schuljahr 2027/28 über **Nextcloud mit Euro-Office** (Microsoft Office entfällt). Die Menüpfade in G4 folgen der OnlyOffice-Hilfe (Bedienung derzeit identisch) – nach der Einführung kurz gegenprüfen.
 - Die einheitliche Formulierung der KI-Ampel im Team (Konzept, Abschnitt 7) – S2 nutzt die Formulierung aus dem Lernpfad DR-Starter.
 - Moodle-Klassenkurs ja/nein – davon hängt ab, wo Aufträge und Abgaben liegen.
