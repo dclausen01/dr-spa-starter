@@ -1,0 +1,35 @@
+# Kursbeschreibung – Startklar für den Digitalen Raum
+# Aufbau und alle Felder: referenzen/schema.md im Lernpfad-Baukasten
+
+titel: Startklar für den Digitalen Raum
+kurzname: startklar-fur-den-digitalen-raum
+ueberschrift: Startklar für den Digitalen Raum – Schritt für Schritt
+untertitel: Worum geht es? Ein Satz für die Schüler:innen.
+badges: [2 Stufen]
+fusszeile: BBZ Rendsburg-Eckernförde
+
+einleitung: |
+  :::notiz 👉 Bevor du startest
+  Arbeite die Module der Reihe nach durch.
+  :::
+
+stufen:
+  - id: grundlagen
+    name: Grundlagen
+    icon: "🌱"
+    text: Was lernt man in dieser Stufe? (ein Satz)
+    module: [g1, gm]
+  - id: sicher-arbeiten
+    name: Sicher arbeiten
+    icon: "🚀"
+    text: Was lernt man in dieser Stufe? (ein Satz)
+    module: [s1, sm]
+
+# selbstcheck:            # optional: kurzer Selbsteinschätzungs-Check auf der Startseite
+
+einstufung: {bestehen: 80}   # Einstufungstests aus den Kurz-Checks der vorigen Stufe
+
+moodle:
+  version: 5                 # 5 = mit Unterabschnitten und H5P (Standard), 4 = ohne Unterabschnitte
+  freischaltung: einstufung  # einstufung = Stufe frei nach Meilenstein ODER Einstufungstest; offen = alle Stufen sofort
+  reihenfolge: nacheinander  # nacheinander | frei
